@@ -6,13 +6,13 @@ The "Telegram_AutoReply" project is a script hosted on GitHub that enables autom
 
 ## Installation
 First, you need to get the `api_hash` and `api_id` (also known as `api_key`) from my.telegram.org:
-### 1. get `api_hash`and `api_id`
-    1. Open your web browser and navigate to [my.telegram.org](https://my.telegram.org/).
-    2. Log in using your Telegram phone number. Telegram will send you a confirmation code via the Telegram app, not SMS.
-    3. After logging in, click on 'API development tools'.
-    4. Fill out the form with your application details. You can enter any name for your application and a short description.
-    5. After you've filled out the form, click on 'Create application' at the end.
-    6. You'll now be able to see your `api_id` and `api_hash`. These are important credentials, so make sure to keep them safe and do not share them with anyone.
+### 1. Get your `api_hash`and `api_id`
+  1. Open your web browser and navigate to [my.telegram.org](https://my.telegram.org/).
+  2. Log in using your Telegram phone number. Telegram will send you a confirmation code via the Telegram app, not SMS.
+  3. After logging in, click on 'API development tools'.
+  4. Fill out the form with your application details. You can enter any name for your application and a short description.
+  5. After you've filled out the form, click on 'Create application' at the end.
+  6. You'll now be able to see your `api_id` and `api_hash`. These are important credentials, so make sure to keep them safe and do not share them with anyone.
 
 ### 2. Clone the repository
 
