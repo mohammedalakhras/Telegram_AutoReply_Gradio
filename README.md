@@ -4,15 +4,15 @@ This repository on GitHub is a script to auto reply messages on Telegram account
 ## Overview
 The "Telegram_AutoReply" project is a script hosted on GitHub that enables automatic replies to messages on Telegram account. This script is designed to be hosted for free, making it a cost-effective solution for users who want to automate their Telegram responses.
 
-  ## Installation
+## Installation
   First, you need to get the `api_hash` and `api_id` (also known as `api_key`) from my.telegram.org:
   ### 1. Get your `api_hash`and `api_id`
-    1. Open your web browser and navigate to [my.telegram.org](https://my.telegram.org/).
-    2. Log in using your Telegram phone number. Telegram will send you a confirmation code via the Telegram app, not SMS.
-    3. After logging in, click on 'API development tools'.
-    4. Fill out the form with your application details. You can enter any name for your application and a short description.
-    5. After you've filled out the form, click on 'Create application' at the end.
-    6. You'll now be able to see your `api_id` and `api_hash`. These are important credentials, so make sure to keep them safe and do not share them with anyone.
+   1. Open your web browser and navigate to [my.telegram.org](https://my.telegram.org/).
+   2. Log in using your Telegram phone number. Telegram will send you a confirmation code via the Telegram app, not SMS.
+   3. After logging in, click on 'API development tools'.
+   4. Fill out the form with your application details. You can enter any name for your application and a short description.
+   5. After you've filled out the form, click on 'Create application' at the end.
+   6. You'll now be able to see your `api_id` and `api_hash`. These are important credentials, so make sure to keep them safe and do not share them with anyone.
   
   ### 2. Clone the repository
   
@@ -55,8 +55,8 @@ The "Telegram_AutoReply" project is a script hosted on GitHub that enables autom
   3. **Select Gradio as the SDK**: In the 'New Space' form, select 'Gradio' from the 'SDK' dropdown menu.
   
   4. **Fill in the Details**: Provide a name for your space, and optionally a description. You can also choose whether to make your space public or private.
-  
+     
   5. **Add Your Gradio App**: Now you can add your Gradio app to this space by uploading `requirements.txt`,`anon.session` and`app.py` in the root directory of your space, and edit your `api_id`,`api_hash` and `@Your_Username` inside it.
   
-  6. **Dont Forget uupload `anon.session` file.
+  7. **Dont Forget uupload `anon.session` file.
   Good Luck! 
