@@ -57,7 +57,7 @@ The "Telegram_AutoReply" project is a script hosted on GitHub that enables autom
      
   5. **Add Your Gradio App**: Now you can add your Gradio app to this space by uploading `requirements.txt`,`anon.session` and`app.py` in the root directory of your space, and edit your `api_id`,`api_hash` and `@Your_Username` inside it.
   
-  6. **Dont Forget uupload `anon.session` file**.
+  6. **Dont Forget upload `anon.session` file**.
 
 
 ###  Good Luck! 
