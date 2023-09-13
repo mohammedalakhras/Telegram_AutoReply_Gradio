@@ -5,7 +5,6 @@ This repository on GitHub is a script to auto reply messages on Telegram account
 The "Telegram_AutoReply" project is a script hosted on GitHub that enables automatic replies to messages on Telegram account. This script is designed to be hosted for free, making it a cost-effective solution for users who want to automate their Telegram responses.
 
 ## Installation
-  First, you need to get the `api_hash` and `api_id` (also known as `api_key`) from my.telegram.org:
   ### 1. Get your `api_hash`and `api_id`
   1. Open your web browser and navigate to [my.telegram.org](https://my.telegram.org/).
   2. Log in using your Telegram phone number. Telegram will send you a confirmation code via the Telegram app, not SMS.
@@ -59,4 +58,6 @@ The "Telegram_AutoReply" project is a script hosted on GitHub that enables autom
   5. **Add Your Gradio App**: Now you can add your Gradio app to this space by uploading `requirements.txt`,`anon.session` and`app.py` in the root directory of your space, and edit your `api_id`,`api_hash` and `@Your_Username` inside it.
   
   6. **Dont Forget uupload `anon.session` file**.
-  Good Luck! 
+
+
+###  Good Luck! 
