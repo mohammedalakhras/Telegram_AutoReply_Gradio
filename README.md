@@ -31,7 +31,7 @@ The "Telegram_AutoReply" project is a script hosted on GitHub that enables autom
   pip install -r requirements.txt
   ```
   
-  ### 5. edit `init_session.py` to replace with your `api_id` , `api_hash` adn `@Your_Username`
+  ### 5. edit `init_session.py` to replace with your `api_id` , `api_hash` and `@Your_Username`
   
   ### 6. run `init_session.py` 
   ```bash
