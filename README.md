@@ -1,13 +1,11 @@
-<p align="center">
-<div>
-<a href="https://huggingface.co/spaces/MohammedAlakhras/Telegram_API?duplicate=true">
-<img style="horizontal-align:middle; position:relative;" alt="Hugging Face Space " src="https://huggingface.co/datasets/huggingface/brand-assets/resolve/main/hf-logo.svg" width="100" height="100" style="max-width: 100%;" />
-<span style="left: 0; position:absolute;text-align:center;top: 30px;width: 100%"> Dublicate Hugging Face Space </span>
-</a>
+
+<div align="center">
+	<a href="https://huggingface.co/spaces/MohammedAlakhras/Telegram_API?duplicate=true">
+		<img style="vertical-align:middle;" alt="Hugging Face Space " src="https://huggingface.co/datasets/huggingface/brand-assets/resolve/main/hf-logo.svg" width="100" height="100" style="max-width: 100%;" />
+		<p> Dublicate Hugging Face Space </p>
+	</a>
 </div>
 
-
-</p>
 
 # Telegram_AutoReply With Free Hosting
 This repository on GitHub is a script to auto reply messages on Telegram account  with free hosting
@@ -42,17 +40,30 @@ The "Telegram_AutoReply" project is a script hosted on GitHub that enables autom
   pip install -r requirements.txt
   ```
   
-  ### 5. edit `init_session.py` to replace with your `api_id` , `api_hash` and `@Your_Username`
   
-  ### 6. run `init_session.py` 
+  ### 5. run `init_session.py` 
   ```bash
   python init_session.py
   ```
   then you need to enter your phone and you will recive code to authentication.
   
-  after that this code will create session file :`anon.session` 
+  after that this code will create session file `anon.session` 
+  then you must upload this file in direct link hosting  such as archive.org 
+  then get direct link of `anon.session` becasue you need to use it in
+  `sessionUrlFile` environment variable.
+
+  ### 6. define environment variable 
+  that will be used in  `init_session.py` file : `apiID` , `apiHash` , `phone`, `username` , `sessionUrlFile` 
+  
   
 ## Free Huggingface Hosting
+  ### You Use this Direct Duplicate Space Link :
+ <div align="center">
+	<a href="https://huggingface.co/spaces/MohammedAlakhras/Telegram_API?duplicate=true">
+		<img style="vertical-align:middle;" alt="Hugging Face Space " src="https://huggingface.co/datasets/huggingface/brand-assets/resolve/main/hf-logo.svg" width="100" height="100" style="max-width: 100%;" />
+		<p> Dublicate Hugging Face Space </p>
+	</a>
+</div>
 
   you can host this code as `Gradio App` on [Huggingface.co](http://huggingface.co/)
   Sure, here are the steps to create a Gradio app with Hugging Face:
@@ -66,9 +77,9 @@ The "Telegram_AutoReply" project is a script hosted on GitHub that enables autom
   
   4. **Fill in the Details**: Provide a name for your space, and optionally a description. You can also choose whether to make your space public or private.
      
-  5. **Add Your Gradio App**: Now you can add your Gradio app to this space by uploading `requirements.txt`,`anon.session` and`app.py` in the root directory of your space, and edit your `api_id`,`api_hash` and `@Your_Username` inside it.
+  5. **Add Your Gradio App**: Now you can add your Gradio app to this space by uploading `requirements.txt`,`anon.session` and`app.py` in the root directory of your space, and add secrect environment variables:  `apiID` , `apiHash` , `phone`, `username` , `sessionUrlFile`  inside your Space.
   
-  6. **Dont Forget upload `anon.session` file**.
+  6. **Dont Forget upload `username` variable must be like this from :`@Mohammed_Alakhras`**.
 
 
 ###  Good Luck! 
