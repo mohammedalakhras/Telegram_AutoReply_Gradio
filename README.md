@@ -1,6 +1,6 @@
 <p align="center">
 <a href="https://huggingface.co/spaces/MohammedAlakhras/Telegram_API?duplicate=true">
-<img alt="Hugging Face Space " src="https://huggingface.co/datasets/huggingface/brand-assets/resolve/main/hf-logo-with-title.svg" width="352" height="59" style="max-width: 100%;">
+<img alt="Hugging Face Space " src=https://huggingface.co/datasets/huggingface/brand-assets/resolve/main/hf-logo.svg" width="352" height="350" style="max-width: 100%;" />
   Dublicate Hugging Face Space
 
 </a>
