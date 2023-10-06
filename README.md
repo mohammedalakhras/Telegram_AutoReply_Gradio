@@ -1,9 +1,12 @@
 <p align="center">
+<div>
 <a href="https://huggingface.co/spaces/MohammedAlakhras/Telegram_API?duplicate=true">
-<img alt="Hugging Face Space " src=https://huggingface.co/datasets/huggingface/brand-assets/resolve/main/hf-logo.svg" width="352" height="350" style="max-width: 100%;" />
-  Dublicate Hugging Face Space
-
+<img style="horizontal-align:middle; position:relative;" alt="Hugging Face Space " src="https://huggingface.co/datasets/huggingface/brand-assets/resolve/main/hf-logo.svg" width="100" height="100" style="max-width: 100%;" />
+<span style="left: 0; position:absolute;text-align:center;top: 30px;width: 100%"> Dublicate Hugging Face Space </span>
 </a>
+</div>
+
+
 </p>
 
 # Telegram_AutoReply With Free Hosting
