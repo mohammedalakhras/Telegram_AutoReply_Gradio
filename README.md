@@ -1,3 +1,11 @@
+<p align="center">
+
+<a href="https://huggingface.co/spaces/MohammedAlakhras/Telegram_API?duplicate=true">
+Dublicate Hugging Face Space
+<img alt="Hugging Face Datasets Library" src="https://huggingface.co/datasets/huggingface/brand-assets/resolve/main/hf-logo.png" width="352" height="59" style="max-width: 100%;">
+</a>
+</p>
+
 # Telegram_AutoReply With Free Hosting
 This repository on GitHub is a script to auto reply messages on Telegram account  with free hosting
 
